@@ -59,3 +59,21 @@ Season-level aggregation allows scoring trends and home-court win percentages to
 Three-point shooting accuracy provides one useful metric for evaluating team performance.
 
 Shooting efficiency alone does not establish causation or fully explain team success. Other factors, including defense, turnovers, and rebounding, may also contribute.
+
+## Limitations
+
+This project uses historical NBA game data from 2004–2020 and does not reflect current NBA performance.
+
+The dataset was accessed through a SQL platform provided by the Global Career Accelerator and is not included in this repository.
+
+The analysis identifies associations rather than causal relationships.
+
+**Future Improvements**
+
+Potential improvements to this project going forward are:
+
+* Visualizing scoring trends and home-court win percentages across seasons.
+
+* Incorporating additional performance metrics such as rebounds, assists, and turnovers.
+
+* Using regression analysis to investigate the relationship between shooting efficiency and winning percentage.
